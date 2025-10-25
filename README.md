@@ -2,7 +2,7 @@
 
 Eu sou <strong>Seu Nome</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
 
-- 🚀 Atualmente estou aprendendo: <strong> Phyton Java Coloque as linguagens que você atualmente está aprendendo</strong> 
+- 🚀 Atualmente estou aprendendo: <strong> Phyton Java </strong> 
 - 💬 Pergunte-me sobre: <strong>Seus hobbies</strong>
 - 📣 Nós podemos falar em: <strong> Português inglês basico Seus Idiomas</strong>
 
