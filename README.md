@@ -1,8 +1,8 @@
 # Jefferson Mariano <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
-Eu sou <strong>Seu Nome</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
+Eu sou <strong>Jefferson</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
 
-- 🚀 Atualmente estou aprendendo: <strong> Phyton Java </strong> 
+- 🚀 Atualmente estou aprendendo: <strong> Phyton e Java </strong> 
 - 💬 Pergunte-me sobre: <strong>Seus hobbies</strong>
 - 📣 Nós podemos falar em: <strong> Português inglês basico Seus Idiomas</strong>
 
