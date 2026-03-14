@@ -4,7 +4,7 @@ Eu sou <strong>Jefferson</strong>, <strong>Faça uma breve apresentação aqui</
 
 - 🚀 Atualmente estou aprendendo: <strong> Phyton e Java </strong> 
 - 💬 Pergunte-me sobre: <strong>Seus hobbies</strong>
-- 📣 Nós podemos falar em: <strong> Português inglês basico Seus Idiomas</strong>
+- 📣 Nós podemos falar em: <strong> Português inglês basico</strong>
 
 <div align="center">
 
